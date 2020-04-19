@@ -1,7 +1,7 @@
 import pygame
 
 '''
-Dividde visualisation speed into
+Divide visualisation speed into
 four smaller buttons each determining
 the speed of each visualisation.
 '''
